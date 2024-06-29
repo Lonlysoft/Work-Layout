@@ -1,4 +1,6 @@
-
+//day and night cicle script.
+//scapped because it deviated the main purpose
+/*
 function getTimeOfTheDay(){
 	let agora = new Date();
 	return agora.getHours();
@@ -79,3 +81,4 @@ function DayAndNightCicle(){
 }
 
 DayAndNightCicle()
+*/
