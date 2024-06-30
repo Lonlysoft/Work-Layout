@@ -67,11 +67,11 @@ body{
 .title .micro{
 	color: var(--contrast-color);
 	text-align: center;
-	font-size: 5px;
+	font-size: 0.8vh;
 }
 
 .area{
-	font-size: 5px;
+	font-size: 0.8vh;
 	opacity: 50%;
 }
 
@@ -91,7 +91,7 @@ main{
 .img img{
 	width:100%;
 	border-radius: 0.2rem;
-	margin-bottom: 2vh;
+	margin-bottom: 1vh;
 }
 
 .link{
@@ -117,7 +117,7 @@ main{
 
 .aside{
 	width:100%;
-	font-size: 10px;
+	font-size: 1vh;
 	font-weight: 600;
 	padding: 0 7px;
 	
